@@ -1,6 +1,9 @@
 {
-  "row": [
-    { "id": 1, "dia": "01/03", "projeto": "Projeto Algar Franquias", "requisitos": { "req001": "Cadastro de Pedidos", "req002": "Relatório de Pedidos" }}],
-  "comments": 8,
-  "profile": 2
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
 }
